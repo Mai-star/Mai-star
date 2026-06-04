@@ -19,13 +19,13 @@ Welcome to my GitHub profile! I am a passionate Data Analyst student with a stro
 
 
 - 🎓 **Education:** Pursuing a Bachelor's in Computer Science and Information Technology (Expected 2028).
-- 
+  
 - 💡 **Interests:** Data Analysis, Business Intelligence, Machine Learning, and Data Engineering.
-- 
+  
 - 🌱 **Currently Learning:** Deepening my expertise in Power BI and Advanced Excel.
-- 
+  
 - 🤝 **Collaboration:** Open to collaborating on data-driven projects and research.
-- 
+  
 
 
 ---
@@ -36,35 +36,7 @@ Welcome to my GitHub profile! I am a passionate Data Analyst student with a stro
 
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-80BFFF?style=for-the-badge&logo=seaborn&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![n8n](https://img.shields.io/badge/n8n-FF5722?style=for-the-badge&logo=n8n&logoColor=white)
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-80BFFF?style=for-the-badge&logo=seaborn&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF5722?style=for-the-badge&logo=n8n&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
 
 ---
 
@@ -95,9 +67,9 @@ Welcome to my GitHub profile! I am a passionate Data Analyst student with a stro
 
 
 - **[Netflix Data Analysis](https://github.com/Mai-star/Netflix-Data-Cleaning-Analysis):** An end-to-end data cleaning and EDA project to uncover trends in Netflix's library.
-- 
+  
 - **[Candy Data Visualization](https://github.com/Mai-star/Candy-Data-Analysis):** Exploratory Data Analysis on consumer preferences for various candy types.
-- 
+  
 
 
 ---
@@ -112,7 +84,7 @@ Welcome to my GitHub profile! I am a passionate Data Analyst student with a stro
 - 
 - 📧 **Email:** maisamishams@gmail.com
 - 
-- 🌐 **GitHub:** [github.com/Mai-star](https://github.com/Mai-sta
+- 🌐 **GitHub:** [github.com/Mai-star](https://github.com/Mai-star)
 
 
 
