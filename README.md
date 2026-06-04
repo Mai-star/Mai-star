@@ -39,8 +39,8 @@ Welcome to my GitHub profile! I am a passionate Data Analyst student with a stro
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mai-star&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Mai's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mai-star&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mai-star&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Mai's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mai-star&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
