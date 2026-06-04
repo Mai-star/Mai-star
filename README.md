@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a passionate Data Analyst student with a stro
 
 - 🎓 **Education:** Pursuing a Bachelor's in Computer Science and Information Technology (Expected 2028).
 - 
-- 💡 **Interests:** Data Analysis, Business Intelligence, Machine Learning, and Automation.
+- 💡 **Interests:** Data Analysis, Business Intelligence, Machine Learning, and Data Engineering.
 - 
 - 🌱 **Currently Learning:** Deepening my expertise in Power BI and Advanced Excel.
 - 
