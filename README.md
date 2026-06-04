@@ -19,12 +19,13 @@ Welcome to my GitHub profile! I am a passionate Data Analyst student with a stro
 
 
 - 🎓 **Education:** Pursuing a Bachelor's in Computer Science and Information Technology (Expected 2028).
-  
+
 - 💡 **Interests:** Data Analysis, Business Intelligence, Machine Learning, and Data Engineering.
   
 - 🌱 **Currently Learning:** Deepening my expertise in Power BI and Advanced Excel.
-  
+
 - 🤝 **Collaboration:** Open to collaborating on data-driven projects and research.
+  
   
 
 
@@ -81,9 +82,9 @@ Welcome to my GitHub profile! I am a passionate Data Analyst student with a stro
 
 
 - 💼 **LinkedIn:** [linkedin.com/in/mai-sami-b514542a6](https://linkedin.com/in/mai-sami-b514542a6)
-- 
+  
 - 📧 **Email:** maisamishams@gmail.com
-- 
+  
 - 🌐 **GitHub:** [github.com/Mai-star](https://github.com/Mai-star)
 
 
