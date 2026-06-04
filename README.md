@@ -61,6 +61,6 @@ Welcome to my GitHub profile! I am a passionate Data Analyst student with a stro
 - 💼 **LinkedIn:** [linkedin.com/in/mai-sami-b514542a6](https://linkedin.com/in/mai-sami-b514542a6)
 - 📧 **Email:** maisamishams@gmail.com
 - 🌐 **GitHub:** [github.com/Mai-star](https://github.com/Mai-star)
-- 📊 ** Kaggale:** [kaggle.com/maisami1](https://www.kaggle.com/maisami1)
+- 📊 **Kaggale:** [kaggle.com/maisami1](https://www.kaggle.com/maisami1)
 
 ### “Data is the new oil — it’s valuable, but if unrefined it cannot really be used."
