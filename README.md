@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mai Sami!
 
-### 📊 Aspiring Data Analyst | Computer Science Student @ Mansoura University
+### 📊 Aspiring Data Engineer | Data Analysis & Big Data | Computer Science Student @ Mansoura University
 
-Welcome to my GitHub profile! I am a passionate Data Analyst student with a strong foundation in Python, data cleaning, and visualization. I love turning raw data into meaningful insights that drive decision-making.
+Welcome to my GitHub profile! I am a passionate Data Engineer student with a strong foundation in Python, data cleaning, and visualization. I love turning raw data into meaningful insights that drive decision-making.
 
 ---
 
